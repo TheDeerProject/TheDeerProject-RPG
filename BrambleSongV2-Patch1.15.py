@@ -1,3 +1,5 @@
+# THIS CODE IS NOT TO BE USED FOR PROFITS,
+# This code belongs to @TheDeerProject on www.github.com
 #!/usr/bin/env python3
 import os
 import platform
